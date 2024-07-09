@@ -6,4 +6,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'magento_es_es', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'coderic_es_ve', __DIR__);

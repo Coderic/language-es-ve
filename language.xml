@@ -6,7 +6,7 @@
  */
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
-    <code>es_ES</code>
-    <vendor>Magento</vendor>
-    <package>es_ES</package>
+    <code>es_VE</code>
+    <vendor>Coderic</vendor>
+    <package>es_VE</package>
 </language>
